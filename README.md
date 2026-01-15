@@ -21,7 +21,7 @@
 🎓 **Computer Science Engineering Student**  
 🎯 **Focus:** Real-World Engineering  
 
-💻 Strong in **DSA, MERN Developing & Core CS**  
+💻 Strong in **DSA, MERN Developer & Core CS**  
 🌱 Learning **Cloud, System Design & Scalable Systems**  
 ⚡ Believe in **consistency > motivation**
 
@@ -64,7 +64,7 @@
 ## 🧠 DSA & LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rishissingh?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/RohitkSharma?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ### 📌 Focus Areas
